@@ -1,6 +1,9 @@
+html{
+    font-size: 20px;
+}
+
 body {
     font-family: "Arial", "Meiryo", sans-serif;
-    font-size: 20px;
     text-align: center;
 }
 
@@ -21,5 +24,5 @@ body {
     font-style: normal;
 }
 .p-bold{
-    font-weight:bold
+    font-weight:bold;
 }
